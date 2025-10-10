@@ -1,0 +1,1 @@
+To a computer, an image is represented as one large 3-dimensional array of numbers. For example, an image can be 248 pixels wide, 400 pixels tall, and has three color channels Red, Green, Blue (or RGB for short).
