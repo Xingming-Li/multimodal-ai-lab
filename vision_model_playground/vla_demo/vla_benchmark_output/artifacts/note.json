@@ -1,0 +1,13 @@
+{
+  "description": "VLA benchmark with synthetic but challenging dataset (distractors, contradictions, occlusions)",
+  "dataset_manifest": "vla_benchmark_output\\dataset\\manifest.json",
+  "artifacts": {
+    "vision_only_checkpoint": "vla_benchmark_output\\artifacts\\vision_only.pth",
+    "fused_vla_checkpoint": "vla_benchmark_output\\artifacts\\fused_vla.pth",
+    "confusion_matrices": [
+      "vla_benchmark_output\\artifacts\\vision_only_confusion.png",
+      "vla_benchmark_output\\artifacts\\fused_vla_confusion.png"
+    ]
+  },
+  "notes": "To upgrade, replace TinyTextEncoder and SmallCNN with pretrained models."
+}

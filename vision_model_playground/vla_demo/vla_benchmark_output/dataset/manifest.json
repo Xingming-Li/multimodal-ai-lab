@@ -1,0 +1,7002 @@
+[
+  {
+    "image": "img_00000.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00001.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00002.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00003.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00004.png",
+    "instruction": "Do not follow the sign, Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00005.png",
+    "instruction": "Stop. Follow instruction.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00006.png",
+    "instruction": "Left at the intersection. Follow instruction.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00007.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00008.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00009.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00010.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00011.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00012.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00013.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00014.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00015.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00016.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00017.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00018.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00019.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00020.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00021.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00022.png",
+    "instruction": "Go straight. Proceed with caution.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00023.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00024.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00025.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00026.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00027.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00028.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00029.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00030.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00031.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00032.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00033.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00034.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00035.png",
+    "instruction": "Left at the intersection. Proceed with caution.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00036.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00037.png",
+    "instruction": "Do not follow the sign, Go straight",
+    "action": "go_straight",
+    "orig_visual": "slow_down",
+    "contradictory": true
+  },
+  {
+    "image": "img_00038.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00039.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00040.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00041.png",
+    "instruction": "Decelerate. Proceed with caution.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00042.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00043.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00044.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00045.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00046.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00047.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00048.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00049.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00050.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00051.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00052.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00053.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00054.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "go_straight",
+    "contradictory": true
+  },
+  {
+    "image": "img_00055.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00056.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00057.png",
+    "instruction": "Continue forward. Follow instruction.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00058.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00059.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00060.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "turn_right",
+    "contradictory": true
+  },
+  {
+    "image": "img_00061.png",
+    "instruction": "Bring vehicle to a stop. Follow instruction.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00062.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00063.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00064.png",
+    "instruction": "Go straight. Proceed with caution.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00065.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00066.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00067.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00068.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00069.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00070.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00071.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00072.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00073.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00074.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00075.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "slow_down",
+    "contradictory": true
+  },
+  {
+    "image": "img_00076.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00077.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00078.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00079.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00080.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00081.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00082.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00083.png",
+    "instruction": "Despite the visual cue, Slow down",
+    "action": "slow_down",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00084.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00085.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00086.png",
+    "instruction": "Make a left turn soon. Follow instruction.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00087.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00088.png",
+    "instruction": "Despite the visual cue, Stop",
+    "action": "stop",
+    "orig_visual": "slow_down",
+    "contradictory": true
+  },
+  {
+    "image": "img_00089.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00090.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00091.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00092.png",
+    "instruction": "Despite the visual cue, Slow down",
+    "action": "slow_down",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00093.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00094.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00095.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00096.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00097.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00098.png",
+    "instruction": "Bring vehicle to a stop. Follow instruction.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00099.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00100.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00101.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00102.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00103.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00104.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00105.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00106.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00107.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00108.png",
+    "instruction": "Turn left. Careful.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00109.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00110.png",
+    "instruction": "Despite the visual cue, Decelerate",
+    "action": "slow_down",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00111.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00112.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00113.png",
+    "instruction": "Slow down. Careful.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00114.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00115.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00116.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00117.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00118.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00119.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00120.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00121.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "slow_down",
+    "contradictory": true
+  },
+  {
+    "image": "img_00122.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00123.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00124.png",
+    "instruction": "Right at the intersection. Follow instruction.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00125.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00126.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00127.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00128.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00129.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00130.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00131.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00132.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00133.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00134.png",
+    "instruction": "Take a right. Proceed with caution.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00135.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00136.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00137.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00138.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00139.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00140.png",
+    "instruction": "Halt. Careful.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00141.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00142.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00143.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00144.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00145.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00146.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00147.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00148.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00149.png",
+    "instruction": "Halt. Proceed with caution.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00150.png",
+    "instruction": "Continue forward. Follow instruction.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00151.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00152.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00153.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00154.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00155.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00156.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00157.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00158.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00159.png",
+    "instruction": "Ignore the sign, Decelerate",
+    "action": "slow_down",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00160.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00161.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00162.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00163.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00164.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00165.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00166.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00167.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00168.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00169.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00170.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00171.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00172.png",
+    "instruction": "Continue forward. Proceed with caution.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00173.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00174.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00175.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00176.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00177.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00178.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00179.png",
+    "instruction": "Turn right. Careful.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00180.png",
+    "instruction": "Halt. Proceed with caution.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00181.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00182.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00183.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00184.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00185.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00186.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00187.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00188.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00189.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00190.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00191.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00192.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00193.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00194.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00195.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00196.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00197.png",
+    "instruction": "Turn right. Proceed with caution.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00198.png",
+    "instruction": "Turn left. Proceed with caution.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00199.png",
+    "instruction": "Bring vehicle to a stop. Proceed with caution.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00200.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00201.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00202.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00203.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00204.png",
+    "instruction": "Keep going. Careful.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00205.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00206.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00207.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00208.png",
+    "instruction": "Take a left. Careful.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00209.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00210.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00211.png",
+    "instruction": "Turn right. Follow instruction.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00212.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00213.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00214.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00215.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00216.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00217.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00218.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00219.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00220.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00221.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00222.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00223.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00224.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00225.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00226.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00227.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00228.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00229.png",
+    "instruction": "Continue forward. Follow instruction.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00230.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00231.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00232.png",
+    "instruction": "Take a left. Proceed with caution.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00233.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00234.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00235.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00236.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00237.png",
+    "instruction": "Go straight. Proceed with caution.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00238.png",
+    "instruction": "Make a left turn soon. Follow instruction.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00239.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00240.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00241.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00242.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00243.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00244.png",
+    "instruction": "Continue forward. Proceed with caution.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00245.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00246.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00247.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00248.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00249.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00250.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00251.png",
+    "instruction": "Take a left. Follow instruction.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00252.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00253.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00254.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00255.png",
+    "instruction": "Proceed straight ahead. Proceed with caution.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00256.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00257.png",
+    "instruction": "Keep going. Careful.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00258.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00259.png",
+    "instruction": "Turn right. Follow instruction.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00260.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00261.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00262.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00263.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00264.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00265.png",
+    "instruction": "Completely stop the vehicle. Follow instruction.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00266.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00267.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00268.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00269.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00270.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00271.png",
+    "instruction": "Slow down. Careful.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00272.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00273.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00274.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00275.png",
+    "instruction": "Turn right. Proceed with caution.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00276.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00277.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00278.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00279.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00280.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00281.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00282.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00283.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00284.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00285.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00286.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00287.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00288.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00289.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00290.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00291.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00292.png",
+    "instruction": "Completely stop the vehicle. Proceed with caution.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00293.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00294.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00295.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00296.png",
+    "instruction": "Decelerate. Careful.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00297.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00298.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00299.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00300.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00301.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00302.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00303.png",
+    "instruction": "Take a left. Proceed with caution.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00304.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00305.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00306.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00307.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00308.png",
+    "instruction": "Slow down. Careful.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00309.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00310.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00311.png",
+    "instruction": "Take a left. Proceed with caution.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00312.png",
+    "instruction": "Make a right turn soon. Careful.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00313.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00314.png",
+    "instruction": "Stop. Follow instruction.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00315.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00316.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00317.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00318.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00319.png",
+    "instruction": "Slow down. Follow instruction.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00320.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00321.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00322.png",
+    "instruction": "Decelerate. Careful.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00323.png",
+    "instruction": "Right at the intersection. Proceed with caution.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00324.png",
+    "instruction": "Bring vehicle to a stop. Proceed with caution.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00325.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00326.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00327.png",
+    "instruction": "Go straight. Follow instruction.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00328.png",
+    "instruction": "Turn right. Follow instruction.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00329.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00330.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00331.png",
+    "instruction": "Proceed straight ahead. Proceed with caution.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00332.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00333.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00334.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00335.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00336.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00337.png",
+    "instruction": "Take a left. Proceed with caution.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00338.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00339.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00340.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00341.png",
+    "instruction": "Reduce speed. Proceed with caution.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00342.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00343.png",
+    "instruction": "Make a left turn soon. Proceed with caution.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00344.png",
+    "instruction": "Despite the visual cue, Slow down",
+    "action": "slow_down",
+    "orig_visual": "go_straight",
+    "contradictory": true
+  },
+  {
+    "image": "img_00345.png",
+    "instruction": "Slow down. Careful.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00346.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00347.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00348.png",
+    "instruction": "Proceed straight ahead. Careful.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00349.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00350.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00351.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00352.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00353.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00354.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00355.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00356.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00357.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00358.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "go_straight",
+    "contradictory": true
+  },
+  {
+    "image": "img_00359.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00360.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00361.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00362.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00363.png",
+    "instruction": "Continue forward. Follow instruction.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00364.png",
+    "instruction": "Slow down. Careful.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00365.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00366.png",
+    "instruction": "Halt. Follow instruction.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00367.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00368.png",
+    "instruction": "Slow down. Proceed with caution.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00369.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00370.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00371.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00372.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00373.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00374.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00375.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00376.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00377.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00378.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00379.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00380.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00381.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00382.png",
+    "instruction": "Turn right. Careful.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00383.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00384.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00385.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00386.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00387.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00388.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00389.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00390.png",
+    "instruction": "Take a right. Follow instruction.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00391.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00392.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00393.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00394.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00395.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00396.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00397.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00398.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00399.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00400.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00401.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00402.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00403.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00404.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00405.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00406.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00407.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00408.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00409.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00410.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00411.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00412.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00413.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00414.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00415.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00416.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00417.png",
+    "instruction": "Make a left turn soon. Follow instruction.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00418.png",
+    "instruction": "Do not follow the sign, Decelerate",
+    "action": "slow_down",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00419.png",
+    "instruction": "Stop. Proceed with caution.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00420.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00421.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00422.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00423.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00424.png",
+    "instruction": "Decelerate. Proceed with caution.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00425.png",
+    "instruction": "Ignore the sign, Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00426.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00427.png",
+    "instruction": "Bring vehicle to a stop. Proceed with caution.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00428.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00429.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00430.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00431.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00432.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00433.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00434.png",
+    "instruction": "Proceed straight ahead. Follow instruction.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00435.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00436.png",
+    "instruction": "Completely stop the vehicle. Careful.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00437.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00438.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00439.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00440.png",
+    "instruction": "Decelerate. Proceed with caution.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00441.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00442.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00443.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00444.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00445.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00446.png",
+    "instruction": "Make a right turn soon. Proceed with caution.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00447.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00448.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00449.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00450.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00451.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00452.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00453.png",
+    "instruction": "Left at the intersection. Careful.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00454.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00455.png",
+    "instruction": "Take a left. Proceed with caution.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00456.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00457.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00458.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00459.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00460.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00461.png",
+    "instruction": "Caution - slow down. Proceed with caution.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00462.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00463.png",
+    "instruction": "Completely stop the vehicle. Careful.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00464.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00465.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00466.png",
+    "instruction": "Ignore the sign, Turn left",
+    "action": "turn_left",
+    "orig_visual": "slow_down",
+    "contradictory": true
+  },
+  {
+    "image": "img_00467.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00468.png",
+    "instruction": "Right at the intersection. Follow instruction.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00469.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00470.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00471.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00472.png",
+    "instruction": "Ignore the sign, Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_right",
+    "contradictory": true
+  },
+  {
+    "image": "img_00473.png",
+    "instruction": "Slow down. Proceed with caution.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00474.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00475.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00476.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00477.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00478.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00479.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00480.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00481.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00482.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00483.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00484.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00485.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00486.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00487.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00488.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00489.png",
+    "instruction": "Caution - slow down. Follow instruction.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00490.png",
+    "instruction": "Caution - slow down. Proceed with caution.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00491.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00492.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00493.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00494.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00495.png",
+    "instruction": "Make a left turn soon. Careful.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00496.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00497.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00498.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00499.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00500.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00501.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00502.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00503.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00504.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00505.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00506.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00507.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00508.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00509.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00510.png",
+    "instruction": "Despite the visual cue, Halt",
+    "action": "stop",
+    "orig_visual": "turn_right",
+    "contradictory": true
+  },
+  {
+    "image": "img_00511.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00512.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00513.png",
+    "instruction": "Do not follow the sign, Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "go_straight",
+    "contradictory": true
+  },
+  {
+    "image": "img_00514.png",
+    "instruction": "Take a left. Careful.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00515.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00516.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00517.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00518.png",
+    "instruction": "Stop. Proceed with caution.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00519.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00520.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00521.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00522.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00523.png",
+    "instruction": "Take a right. Proceed with caution.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00524.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00525.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00526.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00527.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00528.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00529.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00530.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00531.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00532.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00533.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00534.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00535.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00536.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00537.png",
+    "instruction": "Ignore the sign, Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00538.png",
+    "instruction": "Left at the intersection. Follow instruction.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00539.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00540.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00541.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00542.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00543.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00544.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00545.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00546.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00547.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00548.png",
+    "instruction": "Ignore the sign, Continue forward",
+    "action": "go_straight",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00549.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00550.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00551.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00552.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00553.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00554.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00555.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00556.png",
+    "instruction": "Caution - slow down. Proceed with caution.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00557.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00558.png",
+    "instruction": "Make a right turn soon. Careful.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00559.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00560.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00561.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00562.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00563.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00564.png",
+    "instruction": "Stop. Proceed with caution.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00565.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00566.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00567.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00568.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00569.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00570.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00571.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00572.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00573.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00574.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00575.png",
+    "instruction": "Proceed straight ahead. Follow instruction.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00576.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00577.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00578.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00579.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00580.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00581.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00582.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00583.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00584.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00585.png",
+    "instruction": "Halt. Proceed with caution.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00586.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00587.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00588.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00589.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00590.png",
+    "instruction": "Turn left. Careful.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00591.png",
+    "instruction": "Take a right. Follow instruction.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00592.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00593.png",
+    "instruction": "Left at the intersection. Proceed with caution.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00594.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00595.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "slow_down",
+    "contradictory": true
+  },
+  {
+    "image": "img_00596.png",
+    "instruction": "Completely stop the vehicle. Follow instruction.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00597.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00598.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00599.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00600.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00601.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00602.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00603.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00604.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00605.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00606.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00607.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00608.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00609.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00610.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00611.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00612.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00613.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00614.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00615.png",
+    "instruction": "Reduce speed. Proceed with caution.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00616.png",
+    "instruction": "Make a right turn soon. Careful.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00617.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00618.png",
+    "instruction": "Make a right turn soon. Proceed with caution.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00619.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00620.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00621.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00622.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00623.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00624.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00625.png",
+    "instruction": "Caution - slow down. Careful.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00626.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00627.png",
+    "instruction": "Do not follow the sign, Continue forward",
+    "action": "go_straight",
+    "orig_visual": "turn_right",
+    "contradictory": true
+  },
+  {
+    "image": "img_00628.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00629.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00630.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00631.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00632.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00633.png",
+    "instruction": "Keep going. Proceed with caution.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00634.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00635.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00636.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00637.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00638.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00639.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00640.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00641.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00642.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00643.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00644.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00645.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00646.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "slow_down",
+    "contradictory": true
+  },
+  {
+    "image": "img_00647.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00648.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00649.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00650.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00651.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00652.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00653.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00654.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00655.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00656.png",
+    "instruction": "Make a left turn soon. Careful.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00657.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00658.png",
+    "instruction": "Proceed straight ahead. Follow instruction.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00659.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00660.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00661.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00662.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00663.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00664.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00665.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00666.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00667.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00668.png",
+    "instruction": "Right at the intersection. Proceed with caution.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00669.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00670.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00671.png",
+    "instruction": "Decelerate. Careful.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00672.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00673.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00674.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00675.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00676.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00677.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00678.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00679.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00680.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00681.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00682.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00683.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00684.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00685.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00686.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00687.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00688.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00689.png",
+    "instruction": "Turn right. Follow instruction.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00690.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "turn_right",
+    "contradictory": true
+  },
+  {
+    "image": "img_00691.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00692.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00693.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00694.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00695.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00696.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00697.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00698.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00699.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00700.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00701.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00702.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00703.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00704.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00705.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00706.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00707.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00708.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00709.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00710.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00711.png",
+    "instruction": "Halt. Careful.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00712.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00713.png",
+    "instruction": "Slow down. Follow instruction.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00714.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "go_straight",
+    "contradictory": true
+  },
+  {
+    "image": "img_00715.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00716.png",
+    "instruction": "Take a left. Careful.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00717.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00718.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "turn_right",
+    "contradictory": true
+  },
+  {
+    "image": "img_00719.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00720.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00721.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00722.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00723.png",
+    "instruction": "Proceed straight ahead. Follow instruction.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00724.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00725.png",
+    "instruction": "Turn right. Careful.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00726.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00727.png",
+    "instruction": "Turn right. Follow instruction.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00728.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00729.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00730.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00731.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00732.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00733.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00734.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00735.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00736.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00737.png",
+    "instruction": "Go straight. Careful.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00738.png",
+    "instruction": "Left at the intersection. Proceed with caution.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00739.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00740.png",
+    "instruction": "Take a right. Careful.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00741.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00742.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00743.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00744.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00745.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00746.png",
+    "instruction": "Take a left. Careful.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00747.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00748.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00749.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00750.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00751.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00752.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00753.png",
+    "instruction": "Turn left. Proceed with caution.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00754.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00755.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00756.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00757.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00758.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00759.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00760.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00761.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00762.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00763.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00764.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00765.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00766.png",
+    "instruction": "Completely stop the vehicle. Proceed with caution.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00767.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00768.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00769.png",
+    "instruction": "Do not follow the sign, Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00770.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00771.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00772.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00773.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00774.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00775.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00776.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00777.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00778.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00779.png",
+    "instruction": "Take a left. Follow instruction.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00780.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00781.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00782.png",
+    "instruction": "Bring vehicle to a stop. Careful.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00783.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00784.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00785.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00786.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00787.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00788.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00789.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00790.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00791.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00792.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00793.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00794.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00795.png",
+    "instruction": "Despite the visual cue, Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "go_straight",
+    "contradictory": true
+  },
+  {
+    "image": "img_00796.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00797.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00798.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00799.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00800.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00801.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "go_straight",
+    "contradictory": true
+  },
+  {
+    "image": "img_00802.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00803.png",
+    "instruction": "Take a left. Proceed with caution.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00804.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00805.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00806.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00807.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00808.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00809.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00810.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00811.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00812.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00813.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00814.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00815.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00816.png",
+    "instruction": "Go straight. Follow instruction.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00817.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00818.png",
+    "instruction": "Keep going. Follow instruction.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00819.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00820.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00821.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00822.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00823.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00824.png",
+    "instruction": "Despite the visual cue, Keep going",
+    "action": "go_straight",
+    "orig_visual": "slow_down",
+    "contradictory": true
+  },
+  {
+    "image": "img_00825.png",
+    "instruction": "Go straight. Follow instruction.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00826.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00827.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00828.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00829.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00830.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00831.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00832.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00833.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00834.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00835.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00836.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00837.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00838.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00839.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00840.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00841.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00842.png",
+    "instruction": "Turn left. Careful.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00843.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00844.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00845.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00846.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00847.png",
+    "instruction": "Despite the visual cue, Halt",
+    "action": "stop",
+    "orig_visual": "slow_down",
+    "contradictory": true
+  },
+  {
+    "image": "img_00848.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00849.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00850.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00851.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00852.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00853.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00854.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00855.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00856.png",
+    "instruction": "Proceed straight ahead. Follow instruction.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00857.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00858.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00859.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00860.png",
+    "instruction": "Bring vehicle to a stop. Follow instruction.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00861.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00862.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00863.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "stop",
+    "contradictory": true
+  },
+  {
+    "image": "img_00864.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00865.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00866.png",
+    "instruction": "Halt. Proceed with caution.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00867.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00868.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00869.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00870.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00871.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00872.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00873.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00874.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00875.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00876.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00877.png",
+    "instruction": "Proceed straight ahead. Careful.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00878.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00879.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00880.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00881.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00882.png",
+    "instruction": "Make a right turn soon. Proceed with caution.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00883.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00884.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00885.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00886.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00887.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00888.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00889.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00890.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00891.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00892.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00893.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00894.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00895.png",
+    "instruction": "Reduce speed. Proceed with caution.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00896.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00897.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_right",
+    "contradictory": true
+  },
+  {
+    "image": "img_00898.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00899.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00900.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00901.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00902.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00903.png",
+    "instruction": "Bring vehicle to a stop. Follow instruction.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00904.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00905.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00906.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00907.png",
+    "instruction": "Caution - slow down. Careful.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00908.png",
+    "instruction": "Slow down. Follow instruction.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00909.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00910.png",
+    "instruction": "Take a left. Careful.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00911.png",
+    "instruction": "Take a right. Careful.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00912.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00913.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00914.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00915.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00916.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00917.png",
+    "instruction": "Take a right. Careful.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00918.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00919.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00920.png",
+    "instruction": "Reduce speed. Follow instruction.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00921.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00922.png",
+    "instruction": "Left at the intersection. Proceed with caution.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00923.png",
+    "instruction": "Bring vehicle to a stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00924.png",
+    "instruction": "Halt",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00925.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00926.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00927.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00928.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00929.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00930.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "turn_right",
+    "contradictory": true
+  },
+  {
+    "image": "img_00931.png",
+    "instruction": "Do not follow the sign, Decelerate",
+    "action": "slow_down",
+    "orig_visual": "turn_left",
+    "contradictory": true
+  },
+  {
+    "image": "img_00932.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00933.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00934.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00935.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00936.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00937.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00938.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00939.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00940.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00941.png",
+    "instruction": "Stop",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00942.png",
+    "instruction": "Turn left. Proceed with caution.",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00943.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00944.png",
+    "instruction": "Decelerate. Proceed with caution.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00945.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00946.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00947.png",
+    "instruction": "Right at the intersection. Proceed with caution.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00948.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00949.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00950.png",
+    "instruction": "Take a right. Careful.",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00951.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00952.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00953.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00954.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00955.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00956.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00957.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00958.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00959.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00960.png",
+    "instruction": "Completely stop the vehicle. Careful.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00961.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00962.png",
+    "instruction": "Bring vehicle to a stop. Careful.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00963.png",
+    "instruction": "Turn right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00964.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00965.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00966.png",
+    "instruction": "Ignore the sign, Decelerate",
+    "action": "slow_down",
+    "orig_visual": "go_straight",
+    "contradictory": true
+  },
+  {
+    "image": "img_00967.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00968.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "go_straight",
+    "contradictory": true
+  },
+  {
+    "image": "img_00969.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00970.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00971.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00972.png",
+    "instruction": "Slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00973.png",
+    "instruction": "Keep going",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00974.png",
+    "instruction": "Decelerate",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00975.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00976.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00977.png",
+    "instruction": "Turn left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00978.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00979.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00980.png",
+    "instruction": "Completely stop the vehicle",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00981.png",
+    "instruction": "Proceed straight ahead. Follow instruction.",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00982.png",
+    "instruction": "Go straight",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00983.png",
+    "instruction": "Caution - slow down",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00984.png",
+    "instruction": "Left at the intersection",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00985.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00986.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00987.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00988.png",
+    "instruction": "Right at the intersection",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00989.png",
+    "instruction": "Make a left turn soon",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00990.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00991.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  },
+  {
+    "image": "img_00992.png",
+    "instruction": "Reduce speed. Follow instruction.",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00993.png",
+    "instruction": "Take a right",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00994.png",
+    "instruction": "Proceed straight ahead",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00995.png",
+    "instruction": "Reduce speed",
+    "action": "slow_down",
+    "orig_visual": "slow_down",
+    "contradictory": false
+  },
+  {
+    "image": "img_00996.png",
+    "instruction": "Completely stop the vehicle. Proceed with caution.",
+    "action": "stop",
+    "orig_visual": "stop",
+    "contradictory": false
+  },
+  {
+    "image": "img_00997.png",
+    "instruction": "Continue forward",
+    "action": "go_straight",
+    "orig_visual": "go_straight",
+    "contradictory": false
+  },
+  {
+    "image": "img_00998.png",
+    "instruction": "Make a right turn soon",
+    "action": "turn_right",
+    "orig_visual": "turn_right",
+    "contradictory": false
+  },
+  {
+    "image": "img_00999.png",
+    "instruction": "Take a left",
+    "action": "turn_left",
+    "orig_visual": "turn_left",
+    "contradictory": false
+  }
+]
